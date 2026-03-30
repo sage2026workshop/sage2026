@@ -82,6 +82,9 @@ sections:
       - title: Cecilia Zanni-Merk
         text: INSA Rouen Normandie, France
         image: assets/img/members/person3.jpg
+      - title: Mohamed Ragab
+        text: Birmingham City University, UK
+        image: assets/img/members/person5.jpg
 
   - type: paragraph.html
     section_id: program-committee
