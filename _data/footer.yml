@@ -1,5 +1,8 @@
-copyright: '&copy; Start Bootstrap'
+copyright: '&copy; 2026 SAGE Workshop at SEMANTiCS'
 links:
-  - text: Creative
-    url: 'https://startbootstrap.com/themes/creative/'
+  - text: SEMANTiCS Conference
+    url: 'https://semantics.cc/'
+    new_window: true
+  - text: Workshop Proposal (PDF)
+    url: '/assets/docs/Semantics-Workshop-Proposal-SAGE_2026.pdf'
     new_window: true

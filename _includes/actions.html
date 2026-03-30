@@ -2,7 +2,12 @@
 <div class="row gx-4 gx-lg-5 justify-content-center">
   <div class="col md-auto text-center">
     {% for action in include.actions %}
-      <a href="{{ action.url }}" class="btn btn-xl js-scroll-trigger {{ action.class | default: "btn-primary" }}">{{ action.title }}</a>
+      {% if action.url contains '://' or action.url contains 'mailto:' or action.url contains '#' %}
+        {% assign action_link_url = action.url %}
+      {% else %}
+        {% assign action_link_url = action.url | relative_url %}
+      {% endif %}
+      <a href="{{ action_link_url }}" class="btn btn-xl js-scroll-trigger {{ action.class | default: "btn-primary" }}">{{ action.title }}</a>
     {% endfor %}
   </div>
 </div>

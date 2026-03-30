@@ -1,160 +1,111 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: SAGE 2026
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
-  action: # action button is optional
-    label: Find Out More
-    url: '#about'
-
+    The International Workshop on Semantic Architectures for Governance and
+    Explainability. Co-located with SEMANTiCS 2026.
+  action:
+    label: See Call for Papers
+    url: '#call'
 
 sections:
-  - type: call-to-action.html
-    section_id: about
-    background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+  - type: paragraph.html
+    section_id: call
+    title: SAGE Call for Papers
+    text: |
+      Knowledge graphs, ontologies, constraints, provenance, and reasoning offer mature foundations for governed AI systems. SAGE 2026 focuses on how these semantic technologies can be architected end-to-end with explainability and governance built in, not added later.
+
+      **Topics of interest include:**
+      - Semantic architectures for governed inference pipelines.
+      - Policy-aware and compliance-driven knowledge graph systems.
+      - Constraint validation (including SHACL-based validation).
+      - Provenance-aware reasoning and evidence traceability.
+      - Hybrid symbolic-neural and LLM+KG reasoning workflows.
+      - Explainability grounded in semantic representations.
+      - Evaluation beyond accuracy: robustness, provenance completeness, and policy alignment.
+      - Industrial and public-sector use cases in regulated domains.
+
+      **Author Guidelines:**
+      - Full paper: 12-15 pages.
+      - Short paper: 5-8 pages.
+      - Extended abstract: 2-4 pages.
+      - Submissions should follow conference formatting requirements and be submitted in PDF.
+      - Accepted papers are expected to be presented at the workshop and included in workshop proceedings.
     actions:
-      - title: Get Started!
-        url: '#page-top'
-        class: btn-light
-
-  - type: services.html
-    section_id: services
-    #background_style: bg-info
-    title: At Your Service
-    services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: bi-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: bi-rocket-takeoff
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: bi-activity
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: bi-heart-fill
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: bi-emoji-heart-eyes
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: bi-emoji-sunglasses-fill
-
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
-
-  - type: members.html
-    section_id: members
-    title: Our Crew!
-    background_style: bg-info text-white
-    members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+      - title: Download Workshop Proposal
+        url: '/assets/docs/Semantics-Workshop-Proposal-SAGE_2026.pdf'
 
   - type: timeline.html
-    section_id: timeline
-    title: Major Achievements!
+    section_id: important-dates
+    title: Important Dates
+    text: Deadlines and milestones for SAGE 2026.
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
-          **Humble Beginnings**
+          Paper Submission
+          July 2026
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          Deadline for full papers, short papers, and extended abstracts.
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          November 2019
-          An Coaching started
+          Notification
+          August 2026
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+          Authors receive reviews and final decision notifications.
+      - image: assets/img/portfolio/thumbnails/3.jpg
+        title: >+
+          Camera-ready
+          August/September 2026
+        text: >-
+          Final version submission for accepted contributions.
+      - image: assets/img/portfolio/thumbnails/4.jpg
+        title: >+
+          Workshop Day
+          October 2026
+        text: >-
+          Keynote, paper presentations, panel discussion, and challenge session.
 
-  - type: contact.html
-    section_id: contacts
-    title: Let's Get In Touch!
-    text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
-    actions:
-    - title: +1 (202) 555-014
-      icon: bi-telephone-fill
-    - title: E-Mail
-      icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: bi-twitter
-      url: '#'
-    - title: Facebook
-      icon: bi-facebook
-      url: '#'
+  - type: members.html
+    section_id: organization
+    title: Workshop Organizers
+    background_style: bg-info text-white
+    members:
+      - title: Amna Dridi
+        text: Birmingham City University, UK
+        image: assets/img/members/person1.jpg
+      - title: Edlira Vakaj
+        text: Birmingham City University, UK
+        image: assets/img/members/person2.jpg
+      - title: Cecilia Zanni-Merk
+        text: INSA Rouen Normandie, France
+        image: assets/img/members/person3.jpg
+
+  - type: paragraph.html
+    section_id: program-committee
+    title: Program Committee
+    text: |
+      A preliminary Program Committee will be announced in the call for papers.
+
+      The committee will include experts from semantic technologies, knowledge graphs, explainable AI, and trustworthy AI systems, and will support a peer-review process focused on:
+      - Relevance to workshop scope
+      - Originality and technical quality
+      - Clarity and discussion potential
+
+  - type: services.html
+    section_id: previous-editions
+    title: Previous Editions
+    services:
+      - title: SAGE 2026 (Inaugural Edition)
+        text: First edition of the workshop on semantic architectures for governed AI systems.
+        icon: bi-1-circle
+      - title: Community Building Track
+        text: Designed to establish a recurring forum and future benchmark/shared-task activities.
+        icon: bi-people
+      - title: Future Editions
+        text: Upcoming editions will continue alongside major semantic systems venues.
+        icon: bi-arrow-repeat
 
 ---

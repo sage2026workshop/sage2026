@@ -1,10 +1,11 @@
 # Site settings
-title: Your Title Here
+title: SAGE 2026
 description: > # this means to ignore newlines until "baseurl:"
-repository: vvalchev/creative-theme-jekyll-new
+  Semantic Architectures for Governance and Explainability workshop at SEMANTiCS 2026.
+repository: mohamed-ragab/sage2026
 baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Start Bootstrap
+author: SAGE 2026 Organizing Committee
 lang: en_US
 
 # Build settings
@@ -18,6 +19,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
   - build-in-docker.sh
