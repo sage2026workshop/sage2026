@@ -36,37 +36,22 @@ sections:
       - title: Download Workshop Proposal
         url: '/assets/docs/Semantics-Workshop-Proposal-SAGE_2026.pdf'
 
-  - type: timeline.html
+  - type: services.html
     section_id: important-dates
     title: Important Dates
-    text: Deadlines and milestones for SAGE 2026.
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          Paper Submission
-          July 2026
-        text: >-
-          Deadline for full papers, short papers, and extended abstracts.
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          Notification
-          August 2026
-        text: >-
-          Authors receive reviews and final decision notifications.
-      - image: assets/img/portfolio/thumbnails/3.jpg
-        title: >+
-          Camera-ready
-          August/September 2026
-        text: >-
-          Final version submission for accepted contributions.
-      - image: assets/img/portfolio/thumbnails/4.jpg
-        title: >+
-          Workshop Day
-          October 2026
-        text: >-
-          Keynote, paper presentations, panel discussion, and challenge session.
+    services:
+      - title: Paper Submission
+        text: July 2026 - deadline for full papers, short papers, and extended abstracts.
+        icon: bi-file-earmark-text
+      - title: Notification
+        text: August 2026 - authors receive reviews and final decisions.
+        icon: bi-envelope-check
+      - title: Camera-ready
+        text: August/September 2026 - final version submission for accepted contributions.
+        icon: bi-check2-square
+      - title: Workshop Day
+        text: October 2026 - keynote, presentations, panel, and challenge session.
+        icon: bi-calendar-event
 
   - type: members.html
     section_id: organization
@@ -97,18 +82,30 @@ sections:
       - Originality and technical quality
       - Clarity and discussion potential
 
-  - type: services.html
+  - type: timeline.html
     section_id: previous-editions
     title: Previous Editions
-    services:
-      - title: SAGE 2026 (Inaugural Edition)
-        text: First edition of the workshop on semantic architectures for governed AI systems.
-        icon: bi-1-circle
-      - title: Community Building Track
-        text: Designed to establish a recurring forum and future benchmark/shared-task activities.
-        icon: bi-people
-      - title: Future Editions
-        text: Upcoming editions will continue alongside major semantic systems venues.
-        icon: bi-arrow-repeat
+    text: Community trajectory and continuity plan for the workshop series.
+    background_style: bg-dark text-primary
+    last_image: assets/img/timeline-end.png
+    actions:
+      - image: assets/img/portfolio/thumbnails/4.jpg
+        title: >+
+          2026
+          SAGE Inaugural Edition
+        text: >-
+          First edition focused on semantic architectures for governed AI systems.
+      - image: assets/img/portfolio/thumbnails/5.jpg
+        title: >+
+          2027
+          Community Building
+        text: >-
+          Planned continuation with shared evaluation dimensions and benchmark ideas.
+      - image: assets/img/portfolio/thumbnails/6.jpg
+        title: >+
+          2028+
+          Recurring Workshop Vision
+        text: >-
+          Future editions aligned with major semantic systems venues.
 
 ---
