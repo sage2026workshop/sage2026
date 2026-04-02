@@ -4,7 +4,7 @@ header:
   title: SAGE 2026
   text: >
     The International Workshop on Semantic Architectures for Governance and
-    Explainability. Co-located with SEMANTiCS 2026.
+    Explainability. Co-located with <a href="https://2026-eu.semantics.cc/" target="_blank" rel="noopener">SEMANTiCS 2026</a>.
   action:
     label: See Call for Papers
     url: '#call'
