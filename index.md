@@ -40,9 +40,6 @@ sections:
     section_id: important-dates
     title: Important Dates
     services:
-      - title: Website and CfP Online
-        text: April 10, 2026 - workshop website and Call for Papers available online.
-        icon: bi-globe
       - title: Paper Submission
         text: June 25, 2026 - deadline for workshop paper submissions.
         icon: bi-file-earmark-text
