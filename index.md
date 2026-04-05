@@ -40,17 +40,17 @@ sections:
     section_id: important-dates
     title: Important Dates
     services:
+      - title: Website and CfP Online
+        text: April 10, 2026 - workshop website and Call for Papers available online.
+        icon: bi-globe
       - title: Paper Submission
-        text: July 2026 - deadline for full papers, short papers, and extended abstracts.
+        text: June 25, 2026 - deadline for workshop paper submissions.
         icon: bi-file-earmark-text
-      - title: Notification
-        text: August 2026 - authors receive reviews and final decisions.
+      - title: Acceptance Notification
+        text: July 30, 2026 - workshop paper acceptance notification.
         icon: bi-envelope-check
-      - title: Camera-ready
-        text: August/September 2026 - final version submission for accepted contributions.
-        icon: bi-check2-square
       - title: Workshop Day
-        text: October 2026 - keynote, presentations, panel, and challenge session.
+        text: September 15, 2026 - workshop day.
         icon: bi-calendar-event
 
   - type: members.html
