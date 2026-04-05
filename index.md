@@ -79,30 +79,30 @@ sections:
       - Originality and technical quality
       - Clarity and discussion potential
 
-  - type: timeline.html
-    section_id: previous-editions
-    title: Previous Editions
-    text: Community trajectory and continuity plan for the workshop series.
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/4.jpg
-        title: >+
-          2026
-          SAGE Inaugural Edition
-        text: >-
-          First edition focused on semantic architectures for governed AI systems.
-      - image: assets/img/portfolio/thumbnails/5.jpg
-        title: >+
-          2027
-          Community Building
-        text: >-
-          Planned continuation with shared evaluation dimensions and benchmark ideas.
-      - image: assets/img/portfolio/thumbnails/6.jpg
-        title: >+
-          2028+
-          Recurring Workshop Vision
-        text: >-
-          Future editions aligned with major semantic systems venues.
+  # - type: timeline.html
+  #   section_id: previous-editions
+  #   title: Previous Editions
+  #   text: Community trajectory and continuity plan for the workshop series.
+  #   background_style: bg-dark text-primary
+  #   last_image: assets/img/timeline-end.png
+  #   actions:
+  #     - image: assets/img/portfolio/thumbnails/4.jpg
+  #       title: >+
+  #         2026
+  #         SAGE Inaugural Edition
+  #       text: >-
+  #         First edition focused on semantic architectures for governed AI systems.
+  #     - image: assets/img/portfolio/thumbnails/5.jpg
+  #       title: >+
+  #         2027
+  #         Community Building
+  #       text: >-
+  #         Planned continuation with shared evaluation dimensions and benchmark ideas.
+  #     - image: assets/img/portfolio/thumbnails/6.jpg
+  #       title: >+
+  #         2028+
+  #         Recurring Workshop Vision
+  #       text: >-
+  #         Future editions aligned with major semantic systems venues.
 
 ---

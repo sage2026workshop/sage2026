@@ -11,5 +11,5 @@ header:
   url: /#organization
 - title: Program Committee
   url: /#program-committee
-- title: Previous Editions
-  url: /#previous-editions
+# - title: Previous Editions
+#   url: /#previous-editions
