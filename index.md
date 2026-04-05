@@ -41,13 +41,13 @@ sections:
     title: Important Dates
     services:
       - title: Paper Submission
-        text: June 25, 2026 - deadline for workshop paper submissions.
+        text: June 25, 2026 
         icon: bi-file-earmark-text
       - title: Acceptance Notification
-        text: July 30, 2026 - workshop paper acceptance notification.
+        text: July 30, 2026 
         icon: bi-envelope-check
       - title: Workshop Day
-        text: September 15, 2026 - workshop day.
+        text: September 15, 2026
         icon: bi-calendar-event
 
   - type: members.html
