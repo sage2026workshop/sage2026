@@ -32,10 +32,6 @@ sections:
       - Extended abstract: 2-4 pages.
       - Submissions should follow conference formatting requirements and be submitted in PDF.
       - Accepted papers are expected to be presented at the workshop and included in workshop proceedings.
-    actions:
-      - title: Download Workshop Proposal
-        url: '/assets/docs/Semantics-Workshop-Proposal-SAGE_2026.pdf'
-
   - type: services.html
     section_id: important-dates
     title: Important Dates
