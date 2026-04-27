@@ -64,16 +64,29 @@ sections:
         text: Birmingham City University, UK
         image: assets/img/members/person5.jpg
 
-  - type: paragraph.html
+  - type: members.html
     section_id: program-committee
     title: Program Committee
-    text: |
-      A preliminary Program Committee will be announced in the call for papers.
-
-      The committee will include experts from semantic technologies, knowledge graphs, explainable AI, and trustworthy AI systems, and will support a peer-review process focused on:
-      - Relevance to workshop scope
-      - Originality and technical quality
-      - Clarity and discussion potential
+    background_style: bg-white
+    members:
+      - title: Anuoluwapo Adewuyi
+        text: Birmingham City University, UK
+        image: assets/img/members/person1.jpg
+      - title: Aliyuda Ali
+        text: Sheffield Hallam University, UK
+        image: assets/img/members/person2.jpg
+      - title: Sondess Missaoui
+        text: University of the West of England, UK
+        image: assets/img/members/person3.jpg
+      - title: Takwa Omrani
+        text: University of Sfax, Tunisia
+        image: assets/img/members/person4.jpg
+      - title: Aliyu Sani Sambo
+        text: University of Wales Trinity Saint David, UK
+        image: assets/img/members/person5.jpg
+      - title: Parnia Samimi
+        text: Birmingham City University, UK
+        image: assets/img/members/person1.jpg
 
   # - type: timeline.html
   #   section_id: previous-editions
