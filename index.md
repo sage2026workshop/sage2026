@@ -64,29 +64,16 @@ sections:
         text: Birmingham City University, UK
         image: assets/img/members/person5.jpg
 
-  - type: members.html
+  - type: paragraph.html
     section_id: program-committee
     title: Program Committee
-    background_style: bg-white
-    members:
-      - title: Anuoluwapo Adewuyi
-        text: Birmingham City University, UK
-        image: assets/img/members/person1.jpg
-      - title: Aliyuda Ali
-        text: Sheffield Hallam University, UK
-        image: assets/img/members/person2.jpg
-      - title: Sondess Missaoui
-        text: University of the West of England, UK
-        image: assets/img/members/person3.jpg
-      - title: Takwa Omrani
-        text: University of Sfax, Tunisia
-        image: assets/img/members/person4.jpg
-      - title: Aliyu Sani Sambo
-        text: University of Wales Trinity Saint David, UK
-        image: assets/img/members/person5.jpg
-      - title: Parnia Samimi
-        text: Birmingham City University, UK
-        image: assets/img/members/person1.jpg
+    text: |
+      - Anuoluwapo Adewuyi, Birmingham City University, UK
+      - Aliyuda Ali, Sheffield Hallam University, UK
+      - Sondess Missaoui, University of the West of England, UK
+      - Takwa Omrani, University of Sfax, Tunisia
+      - Aliyu Sani Sambo, University of Wales Trinity Saint David, UK
+      - Parnia Samimi, Birmingham City University, UK
 
   # - type: timeline.html
   #   section_id: previous-editions
