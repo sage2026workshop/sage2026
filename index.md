@@ -32,6 +32,7 @@ sections:
       - Extended abstract: 2-4 pages.
       - Submissions should follow conference formatting requirements and be submitted in PDF.
       - Accepted papers are expected to be presented at the workshop and included in workshop proceedings.
+      - All submissions must be made through EasyChair: Link is <a href="https://easychair.org/conferences/?conf=sage26" target="_blank" rel="noopener">here</a>! 
   - type: services.html
     section_id: important-dates
     title: Important Dates
