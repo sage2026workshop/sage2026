@@ -75,6 +75,7 @@ sections:
       - Takwa Omrani, University of Sfax, Tunisia
       - Aliyu Sani Sambo, University of Wales Trinity Saint David, UK
       - Parnia Samimi, Birmingham City University, UK
+      - Asma Patel, Aston University, UK
 
   # - type: timeline.html
   #   section_id: previous-editions
