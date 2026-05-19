@@ -76,6 +76,7 @@ sections:
       - Aliyu Sani Sambo, University of Wales Trinity Saint David, UK
       - Parnia Samimi, Birmingham City University, UK
       - Asma Patel, Aston University, UK
+      - Massimiliano Garda, Università degli Studi di Brescia, Italy
 
   # - type: timeline.html
   #   section_id: previous-editions
