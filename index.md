@@ -33,6 +33,8 @@ sections:
       - Submissions should follow conference formatting requirements and be submitted in PDF.
       - Accepted papers are expected to be presented at the workshop and included in workshop proceedings.
       - All submissions must be made through EasyChair: Link is <a href="https://easychair.org/conferences/?conf=sage26" target="_blank" rel="noopener">here</a>! 
+      - For SAGE 2026 submissions, authors should follow the SEMANTiCS 2026 formatting requirements, which use the IOS Press guidelines. The conference website states that authors should use the IOS Press Word or LaTeX template, and submissions should be in PDF format. The link is as follows: https://2026-eu.semantics.cc/page/cfp_research_innovation.html
+
   - type: services.html
     section_id: important-dates
     title: Important Dates
