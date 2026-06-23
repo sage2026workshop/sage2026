@@ -39,8 +39,11 @@ sections:
     section_id: important-dates
     title: Important Dates
     services:
+      - title: Abstract Submission
+        text: ~~June 18, 2026~~ 30th June 2026
+        icon: bi-file-earmark-text
       - title: Paper Submission
-        text: June 25, 2026 
+        text: ~~June 25, 2026~~ 8th July 2026
         icon: bi-file-earmark-text
       - title: Acceptance Notification
         text: July 30, 2026 
